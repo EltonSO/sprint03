@@ -1,8 +1,10 @@
 # sprint03
-'''
-Landing page para Web
-Utilizados HTML5, CSS3 e Bootstrap
 
-'''
+## Landing page para Sprint 03 de Web 2023
 
-Status --> Finalizado
+#### Utilizados:
+      * HTML5;
+      * CSS3;
+      * Bootstrap;
+
+## Status --> Finalizado
